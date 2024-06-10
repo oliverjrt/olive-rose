@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wedding Photography by [Olive & Rose]</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f8f8f8;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #fff;
+            padding: 20px;
+            text-align: center;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            margin: 10px 0;
+        }
+        section {
+            padding: 20px;
+            margin: 20px;
+            background-color: #fff;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            background-color: #333;
+            color: #fff;
+        }
+        .gallery img {
+            width: 100%;
+            height: auto;
+            margin-bottom: 20px;
+        }
+        .testimonial {
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Wedding Photography by [Olive & Rose]</h1>
+        <p>Capturing special moments that last a lifetime</p>
+    </header>
+
+    <section>
+        <h2>About Me</h2>
+        <p>Welcome to my website! I specialize in capturing the joy and beauty of weddings through photography. With a focus on genuine moments and emotions, I strive to create timeless images that you'll cherish forever.</p>
+    </section>
+
+    <section>
+        <h2>Portfolio</h2>
+        <div class="gallery">
+            <!-- Insert your portfolio images here -->
+            <!-- Example: <img src="photo1.jpg" alt="Wedding Photo"> -->
+        </div>
+    </section>
+
+    <section>
+        <h2>Testimonials</h2>
+        <div class="testimonial">
+            <p>"[Testimonial 1]"</p>
+            <p>- [Client Name]</p>
+        </div>
+        <div class="testimonial">
+            <p>"[Testimonial 2]"</p>
+            <p>- [Client Name]</p>
+        </div>
+        <!-- Add more testimonials as needed -->
+    </section>
+
+    <section>
+        <h2>Pricing & Packages</h2>
+        <!-- Include your pricing and packages information here -->
+        <p>Contact me for personalized packages tailored to your needs.</p>
+    </section>
+
+    <footer>
+        <p>Connect with me:</p>
+        <!-- Include your social media links here -->
+        <!-- Example: <a href="https://www.instagram.com/yourusername">Instagram</a> -->
+    </footer>
+</body>
+</html>
